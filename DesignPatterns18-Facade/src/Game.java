@@ -3,6 +3,7 @@
  */
 
 public class Game {
+	
 	private InputSystem input = new InputSystem();
 	private GameObjects objects = new GameObjects();
 	private GameConsole screen = new GameConsole();
